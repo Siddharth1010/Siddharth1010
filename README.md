@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to my GitHub Profile
+# Welcome to my GitHub Profile <img src="https://raw.githubusercontent.com/Neilblaze/vault-0.1/master/Funny%20gif's/Hi.gif" width="30px">
 ## Personal Portfolio
 Visit my website at [https://siddharth1010.github.io/portfolio/](https://siddharth1010.github.io/portfolio/).
 ## Stats
